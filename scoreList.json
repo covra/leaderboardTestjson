@@ -1,12 +1,12 @@
 {
   "Leaderboard": [
     {
-    "UserID": "AAA",
-    "sc": 0
+    "UserID": "IPO",
+    "sc": 1000
     },
     {
     "UserID": "AAA",
-    "sc": 0
+    "sc": 200
     }
   ]
 }
